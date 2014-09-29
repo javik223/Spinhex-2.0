@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=$(".fv-thumbs"),t=$(".pchamps-thumbs");e.owlCarousel({items:3,itemsDesktop:[1e3,3],itemsDesktopSmall:[900,2],itemsTablet:[600,2],itemsMobile:!1}),t.owlCarousel({items:3,itemsDesktop:[1e3,3],itemsDesktopSmall:[900,2],itemsTablet:[600,1],itemsMobile:!1}),$("#vid").fitVids()});
